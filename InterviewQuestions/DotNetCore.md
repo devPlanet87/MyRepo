@@ -10,7 +10,7 @@
 - Solution for Multi tenant or product
 - How to configure Rate limiting?
 - Singleton,transient,scoped real time example
-- Single sign on
+- Single sign on implementation
 - How to store file in DB
 - How to validate a request Middleware?
 - When to use Middleware when to use filter?
@@ -19,5 +19,9 @@
 - CQRS pattern
 - How to load images effectively while users are from different geographical locations?
 - .Net runtime vs .Net sdk
+- API Gateway
+- API Gateway vs Load balancer
+- API Versioning in .Net core
+- Different caching techniques in .Net core
 
 
