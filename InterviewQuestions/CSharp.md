@@ -9,3 +9,7 @@
 - Difference between Inheriting and Implementing
 - Reason behind the Interface can't be instatiated
 - Object pooling
+- SOLID principles
+- Strategy design pattern vs Factory pattern
+- Synchronous vs Asynchronous programming
+- Async and Await
