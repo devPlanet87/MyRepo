@@ -7,11 +7,9 @@
 - How to setup CORS(Cross-Origin Resource Sharing) in WebApi?
 - How to configure Rate limiting?
 - How to protect your application from XSS attack?
-- Solution for Multi tenant or product
-- How to configure Rate limiting?
+- Solution for Multi tenant application or product
 - Singleton,transient,scoped real time example
 - Single sign on implementation
-- How to store file in DB
 - How to validate a request Middleware?
 - When to use Middleware when to use filter?
 - How to Filter incoming requests from particular IP range using middleware?
@@ -22,6 +20,4 @@
 - API Gateway
 - API Gateway vs Load balancer
 - API Versioning in .Net core
-- Different caching techniques in .Net core
-
-
+- What is caching? Explain Different caching techniques in .Net core
