@@ -7,3 +7,5 @@
 - rank vs row_number
 - Union vs Union all
 - Transactions in sql
+- Materilized view in sql
+- How to get 5th max salary of an employee?
