@@ -1,0 +1,23 @@
+### Azure DevOps Interview Questions
+
+- What is the difference between Azure DevOps services and Azure DevOps Server?
+- What are the reasons to use CI and CD and Azure Pipelines?
+- What can you do to improve code quality if there are many unused variables and empty catch blocks?
+- How do you stage azure pipline?
+- How to create pipeline?
+- What is Yaml? how to create pipeline using Yaml?
+- Where you store bulid file, after successful build using pipeline?
+- What is the artifact?
+- How you maintain files in devops? explain How to delploy file in azure using CD?
+- How to deploy in IIS using CD?
+- What is Azure Subscriptions?
+- What is app service plan?
+- What is storage account in Azure?
+- What are different storage account?
+- How to know latest insert file in storeage accout with same name?
+- How to migrate TFS to devops?
+- Is any automatic ways for migrate TFS to devops?
+- How to register Subscription for Azure?
+- what is region in azure?
+- What is azure AD?
+- how to implement the azure AD?
