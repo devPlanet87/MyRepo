@@ -1,0 +1,43 @@
+### Architecture Interview Questions
+
+Round 1:
+- what is gRPC and rest?
+- What is controlplane and data plane?
+- what are different applogics and have u used?
+- difference between generic,list and hashset?
+- from stage to prod and prod to stage how u deploy? answer: use deployment slot(blue-green),canary
+- new features in latest c#
+- what are the components in kubernetes? what is etcd?
+- what things u done in azure and devops side?
+- have u used any coding agent?
+- what is replicaset?
+- scaling in kubernetes?
+- monolithic vs microservices
+- any 2 design pattern in microservices?
+- solid priciples
+- types of delegates?
+- sidecar pattern?
+- how GC works
+- Ienumerable vs Iqueryable
+
+Round 2:
+- What is 12-Factor Principles in cloud?
+- If one server is down how u handle the situation if more users login? eg: IRCTC
+- If 3 tasks runs in parallel and the task3 should run only after task1 and 2 completes. how to achieve that?
+- what is VM pooling?
+- Have u done any security related diagram, composite diagram?
+- What is CORS and what value we need to pass from angular for CORS?
+- Have u used any third party component in angular?
+- what is data ingestion?
+- what is NFR, what it will contain?
+- what is repository pattern and what is its advantages? answer: Automation Testing will be easier,loose coupling
+- how to remove duplicates in Lamda in linq?
+- have u used any AI and what is agentic AI?
+- Have u done vmpooling in yaml?
+- How u done authentication and authorization?
+- If u want to move legacy application to cloud securely, what steps/strategy u follow? how u do masking?
+- what is service bus and how u trace the different microservice?
+- How u monitor server and client? answer: Grafana
+- What tools u use for migration of .net?
+- what is non-clustered index and its advantages?
+- have u done any proposals for project?
